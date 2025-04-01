@@ -60,6 +60,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 
+<p>
+<img src="https://i.imgur.com/68I3FP5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+🛡️ Configure Roles
+
+> Used to group and define agent permissions.
+
+**Navigation**: `Admin Panel -> Agents -> Roles`
+
+- Create a new role: `Supreme Admin`
+
+---
+</p>
+<br />
 
 
 <p>
