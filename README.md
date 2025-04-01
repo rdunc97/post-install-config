@@ -101,15 +101,48 @@ Examples:
 
 
 <p>
+<img src="https://i.imgur.com/QGtgvEy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+👥 Configure Teams
+
+> Teams allow agents from different departments to work together.
+
+**Navigation**: `Admin Panel -> Agents -> Teams`
+
+- Create team: `Online Banking`
+
+---
+</p>
+<br />
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/auQkCbp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 🎫 Ticket Creation Settings
+
+**Navigation**: `Admin Panel -> Settings -> User Settings`
+
+- ✅ Allow anyone to create tickets:
+  - **UNCHECK**: "Require registration and login to create tickets"
+
+---
+</p>
+<br />
+
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
-
-
 
 
 <p>
